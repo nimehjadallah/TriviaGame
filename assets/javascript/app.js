@@ -64,7 +64,6 @@ $( document ).ready(function() {
             console.log('hello');
     
             $(".jumbotron").hide();
-            
         });
     
         var number = 30;
